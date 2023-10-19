@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LNSTicketSystem_MIS566_Group5", "LNSTicketSystem_MIS566_Group5.csproj", "{993985A9-409E-46DC-8904-C1C1E0C63BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993985A9-409E-46DC-8904-C1C1E0C63BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993985A9-409E-46DC-8904-C1C1E0C63BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993985A9-409E-46DC-8904-C1C1E0C63BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993985A9-409E-46DC-8904-C1C1E0C63BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC5719F5-A994-4940-9958-6EE435D16D98}
+	EndGlobalSection
+EndGlobal
